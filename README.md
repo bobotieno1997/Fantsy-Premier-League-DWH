@@ -19,6 +19,9 @@ Example of Airflow web server UI displaying successful DAG runs and tables:
 
 ![Airflow](https://github.com/bobotieno1997/Fantsy-Premier-League-DWH/blob/dfe69cdfe176465d558871c110e445cc12290dc8/project_files/Other%20files/bronze_airflow.png)
 
+Airflow logs are stored in s3 bucket for scalability reasons
+![s3_logs](https://github.com/bobotieno1997/Fantsy-Premier-League-DWH/blob/dfe69cdfe176465d558871c110e445cc12290dc8/project_files/Other%20files/bronze_airflow.png)
+
 Sample data from the tables:
 
 ![Database Query](https://github.com/bobotieno1997/Fantsy-Premier-League-DWH/blob/dfe69cdfe176465d558871c110e445cc12290dc8/project_files/Other%20files/bronze_table.png)
